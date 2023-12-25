@@ -4,14 +4,7 @@
     <a class="navbar-brand" href="/DigitalGrit/">
         <img class="navbar-brand-img" src="/DigitalGrit/assets/img/logo.png" alt=""
             srcset="/DigitalGrit/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit/assets/img/logo.png 1153w alt="" />
-    <!-- <svg class=" navbar-brand-svg" viewBox="0 0 245 80" xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink">
-        <path d="M0 0 L 20 10 L 0 20 Z" class="navbar-brand-svg-i" fill="currentColor"></path>
-        <path d="M0 30 L 20 40 L 0 50 Z M20 45 L 0 55 L 20 65 Z M0 60 L 20 70 L 0 80 Z" fill="currentColor">
-        </path>
-        <text x="40" y="70" font-family="Arial, sans-serif" font-size="60" font-weight="bold" letter-spacing="-.025em"
-            fill="currentColor">incline.</text>
-        </svg> -->
+
 
     </a>
 
