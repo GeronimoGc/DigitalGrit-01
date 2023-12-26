@@ -10,7 +10,7 @@
             <!-- Brand -->
             <p>
                 <a href="#" class="footer-brand text-white">
-                    <img class="footer-brand-img" src="/DigitalGrit/assets/img/logo.png" alt=""
+                    <img class="footer-brand-img" src="/DigitalGrit/assets/img/logo.png" alt="logo"
                         srcset="/DigitalGrit/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit/assets/img/logo.png 1153w alt="" />
                 </a>
             </p>

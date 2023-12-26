@@ -1,3 +1,7 @@
+.bg-img-cover-edit {
+    background-image: url('/DigitalGrit/assets/img/01.jpg');
+}
+
 @media screen and (min-width: 320px) {
     .container-carrucel-edit {
         display: flex;
