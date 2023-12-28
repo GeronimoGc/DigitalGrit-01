@@ -1,9 +1,9 @@
 <div class="container">
 
     <!-- Brand -->
-    <a class="navbar-brand" href="/DigitalGrit/">
-        <img class="navbar-brand-img" src="/DigitalGrit/assets/img/logo.png" alt=""
-            srcset="/DigitalGrit/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit/assets/img/logo.png 1153w alt="" />
+    <a class="navbar-brand" href="/DigitalGrit-01/">
+        <img class="navbar-brand-img" src="/DigitalGrit-01/assets/img/logo.png" alt=""
+            srcset="/DigitalGrit-01/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit-01/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit-01/assets/img/logo.png 1153w alt="" />
 
 
     </a>
@@ -53,7 +53,7 @@
             <!-- Links -->
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item ">
-                    <a href="/DigitalGrit/" class="nav-link">
+                    <a href="/DigitalGrit-01/" class="nav-link">
                         Inicio
                     </a>
                 </li>
@@ -63,7 +63,7 @@
                         Servicios
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarLandings">
-                        <a class="dropdown-item " href="/DigitalGrit/#servicios">
+                        <a class="dropdown-item " href="/DigitalGrit-01/#servicios">
                             Servicios
                         </a>
                         <hr>
@@ -85,7 +85,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarPages">
                         <li>
-                            <a class="dropdown-item " href="/DigitalGrit/#TiendaDigital">
+                            <a class="dropdown-item " href="/DigitalGrit-01/#TiendaDigital">
                                 Tienda Digital
                             </a>
                         </li>

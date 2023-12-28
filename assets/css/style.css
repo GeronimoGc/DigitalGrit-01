@@ -1,5 +1,5 @@
 .bg-img-cover-edit {
-    background-image: url('/DigitalGrit/assets/img/01.jpg');
+    background-image: url('/DigitalGrit-01/assets/img/01.jpg');
 }
 
 @media screen and (min-width: 320px) {
@@ -19,15 +19,15 @@
             overflow: hidden;
 
             &:nth-of-type(1) {
-                background: url('/DigitalGrit/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(2) {
-                background: url('/DigitalGrit/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(3) {
-                background: url('/DigitalGrit/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
 
@@ -91,15 +91,15 @@
             overflow: hidden;
 
             &:nth-of-type(1) {
-                background: url('/DigitalGrit/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(2) {
-                background: url('/DigitalGrit/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(3) {
-                background: url('/DigitalGrit/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
 
@@ -163,15 +163,15 @@
             overflow: hidden;
 
             &:nth-of-type(1) {
-                background: url('/DigitalGrit/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(2) {
-                background: url('/DigitalGrit/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(3) {
-                background: url('/DigitalGrit/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
 
@@ -235,15 +235,15 @@
             overflow: hidden;
 
             &:nth-of-type(1) {
-                background: url('/DigitalGrit/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/02.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(2) {
-                background: url('/DigitalGrit/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/03.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
             &:nth-of-type(3) {
-                background: url('/DigitalGrit/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+                background: url('/DigitalGrit-01/assets/img/04.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
                     no-repeat 50% / cover;
             }
 

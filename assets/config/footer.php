@@ -10,8 +10,8 @@
             <!-- Brand -->
             <p>
                 <a href="#" class="footer-brand text-white">
-                    <img class="footer-brand-img" src="/DigitalGrit/assets/img/logo.png" alt="logo"
-                        srcset="/DigitalGrit/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit/assets/img/logo.png 1153w alt="" />
+                    <img class="footer-brand-img" src="/DigitalGrit-01/assets/img/logo.png" alt="logo"
+                        srcset="/DigitalGrit-01/assets/img/logo.webp?scale-down-to=512 512w, /DigitalGrit-01/assets/img/logo.png?scale-down-to=1024 1024w, /DigitalGrit-01/assets/img/logo.png 1153w alt="" />
                 </a>
             </p>
 

@@ -14,14 +14,14 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- Plugins CSS -->
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/flickity/dist/flickity.min.css">
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/flickity-fade/flickity-fade.css">
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/fullpage.js/dist/fullpage.min.css">
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/highlightjs/styles/codepen-embed.css">
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
-<link rel="stylesheet" href="/DigitalGrit/assets/libs/incline-icons/style.min.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/flickity/dist/flickity.min.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/flickity-fade/flickity-fade.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/fullpage.js/dist/fullpage.min.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/highlightjs/styles/codepen-embed.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/libs/incline-icons/style.min.css">
 <link rel="stylesheet" id="joinchat-css"
-    href="/DigitalGrit/assets/libs/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.6" type="text/css"
+    href="/DigitalGrit-01/assets/libs/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.6" type="text/css"
     media="all">
 <style id="joinchat-button-style-inline-css" type="text/css">
     .wp-block-joinchat-button {
@@ -107,12 +107,13 @@
 
 
 <!-- Theme CSS -->
-<link rel="stylesheet" href="/DigitalGrit/assets/css/theme.min.css">
+<link rel="stylesheet" href="/DigitalGrit-01/assets/css/theme.min.css">
 
 <!-- Style CSS -->
-<link rel="stylesheet" href="/DigitalGrit/assets/css/style.css" />
+<link rel="stylesheet" href="/DigitalGrit-01/assets/css/style.css" />
 
 <!-- Scripts JS -->
-<script type="text/javascript" src="/DigitalGrit/assets/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="/DigitalGrit/assets/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+<script type="text/javascript" src="/DigitalGrit-01/assets/js/jquery/jquery.min.js?ver=3.7.1"
+    id="jquery-core-js"></script>
+<script type="text/javascript" src="/DigitalGrit-01/assets/js/jquery/jquery-migrate.min.js?ver=3.4.1"
     id="jquery-migrate-js"></script>

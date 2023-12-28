@@ -43,13 +43,14 @@
                     <!-- Heading -->
                     <h1 class="text-white text-center mb-4" data-toggle="animation" data-animation="fadeUp"
                         data-animation-order="1" data-animation-trigger="load">
-                        DigitalGrit
+                        DigitalGrit-01
                     </h1>
 
                     <!-- Subheading -->
                     <p class="lead text-white text-muted text-center mb-5" data-toggle="animation"
                         data-animation="fadeUp" data-animation-order="2" data-animation-trigger="load">
-                        DigitalGrit, tu solución integral para equipo informático y más allá. ¡Ofrecemos excepcionales
+                        DigitalGrit-01, tu solución integral para equipo informático y más allá. ¡Ofrecemos
+                        excepcionales
                         piezas de computadora, un soporte técnico brillante y servicios de desarrollo de software
                         inigualables! Sumérgete en nuestra tienda para explorar, o aprende más sobre nosotros a
                         continuación.
@@ -148,11 +149,11 @@
 
                     <!-- Subheading -->
                     <p class="text-muted text-center mb-5">
-                        Bienvenido a DigitalGrit donde encontrarás todo lo que necesitas para armar o mejorar tu
+                        Bienvenido a DigitalGrit-01 donde encontrarás todo lo que necesitas para armar o mejorar tu
                         computador. Tenemos un amplio catálogo de componentes de las mejores marcas y al mejor precio.
                         Tarjetas gráficas, procesadores, memorias, discos duros, fuentes de poder, gabinetes y mucho
                         más. Visita nuestra Seccion de Tienda Digital y descubre todo lo que tenemos para ti.
-                        DigitalGrit, Tu socio en el mundo digital.
+                        DigitalGrit-01, Tu socio en el mundo digital.
                     </p>
 
                 </div>
@@ -171,7 +172,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/05.jpg" alt="almacenamiento HDD"
+                                    <img src="/DigitalGrit-01/assets/img/05.jpg" alt="almacenamiento HDD"
                                         class="img-fluid">
                                 </div>
 
@@ -197,7 +198,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/06.jpg" alt="almacenamiento SSD"
+                                    <img src="/DigitalGrit-01/assets/img/06.jpg" alt="almacenamiento SSD"
                                         class="img-fluid">
                                 </div>
 
@@ -234,7 +235,8 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/07.jpg" alt="procesador Intel" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/07.jpg" alt="procesador Intel"
+                                        class="img-fluid">
                                 </div>
 
                                 <!-- Body -->
@@ -259,7 +261,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/09.jpg" alt="Procesador AMD" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/09.jpg" alt="Procesador AMD" class="img-fluid">
                                 </div>
 
                                 <!-- Body -->
@@ -294,7 +296,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/08.jpg" alt="placa base amd" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/08.jpg" alt="placa base amd" class="img-fluid">
                                 </div>
 
                                 <!-- Body -->
@@ -357,7 +359,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/11.jpg" alt="Tarjeta Grafica Nvidia"
+                                    <img src="/DigitalGrit-01/assets/img/11.jpg" alt="Tarjeta Grafica Nvidia"
                                         class="img-fluid">
                                 </div>
 
@@ -384,7 +386,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/12.jpg" alt="Tarjeta Grafica AMD"
+                                    <img src="/DigitalGrit-01/assets/img/12.jpg" alt="Tarjeta Grafica AMD"
                                         class="img-fluid">
                                 </div>
 
@@ -443,7 +445,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/14.jpg" alt="Memoria Ram" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/14.jpg" alt="Memoria Ram" class="img-fluid">
                                 </div>
 
                                 <!-- Body -->
@@ -473,7 +475,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/15.jpg" alt="Refligeracion" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/15.jpg" alt="Refligeracion" class="img-fluid">
                                 </div>
 
                                 <!-- Body -->
@@ -503,7 +505,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/16.jpg" alt="fuentes de alimentacion"
+                                    <img src="/DigitalGrit-01/assets/img/16.jpg" alt="fuentes de alimentacion"
                                         class="img-fluid">
                                 </div>
 
@@ -536,7 +538,7 @@
 
                                 <!-- Image -->
                                 <div class="card-img-top">
-                                    <img src="/DigitalGrit/assets/img/17.jpg" alt="Gabinete" class="img-fluid">
+                                    <img src="/DigitalGrit-01/assets/img/17.jpg" alt="Gabinete" class="img-fluid">
                                 </div>
 
                                 <!-- Body -->

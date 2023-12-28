@@ -1,7 +1,8 @@
-<link href="/DigitalGrit/assets/libs/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.6" rel="preload" as="script">
+<link href="/DigitalGrit-01/assets/libs/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.6" rel="preload"
+    as="script">
 
 <div class="joinchat joinchat--left joinchat--show"
-    data-settings="{&quot;telephone&quot;:&quot;573103419439&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:0,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:1,&quot;message_delay&quot;:6,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;¡Hola! Me gustaria Recibir mas informacion de sus servicios de DigitalGrit&quot;,&quot;message_hash&quot;:&quot;e2dc4d46&quot;}"
+    data-settings="{&quot;telephone&quot;:&quot;573103419439&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:0,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:1,&quot;message_delay&quot;:6,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;¡Hola! Me gustaria Recibir mas informacion de sus servicios de DigitalGrit-01&quot;,&quot;message_hash&quot;:&quot;e2dc4d46&quot;}"
     style="--peak: url(#joinchat__message__peak);">
     <div class="joinchat__button">
         <div class="joinchat__button__open"></div>
@@ -45,5 +46,5 @@
 </div>
 
 
-<script type="text/javascript" src="/DigitalGrit/assets/libs/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.6"
+<script type="text/javascript" src="/DigitalGrit-01/assets/libs/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.6"
     id="joinchat-js" defer=""></script>
